@@ -1,0 +1,14 @@
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\bin\Debug\Lab02-01.exe.config
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\bin\Debug\Lab02-01.exe
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\bin\Debug\Lab02-01.pdb
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.frmLogin.resources
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.Properties.Resources.resources
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.csproj.GenerateResource.cache
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.csproj.CoreCompileInputs.cache
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.exe
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02-01.pdb
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.EjemploMDI.resources
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.PrincipalMDI.resources
+C:\Users\Ventura\source\repos\Lab02-01\Lab02-01\obj\Debug\Lab02_01.manUsuario.resources
